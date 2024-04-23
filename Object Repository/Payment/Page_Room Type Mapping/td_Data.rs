@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Data</name>
+   <tag></tag>
+   <elementGuidId>da2dc888-4a34-4d75-858d-56231d42e8cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/main/div[2]/div/div/div[2]/div/div[2]/div/div/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-cell.ant-table-selection-column.ant-table-cell-row-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f3bd8789-ea2b-4028-b686-13053960e15d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-table-cell ant-table-selection-column ant-table-cell-row-hover</value>
+      <webElementGuid>a0433b56-cdc2-48af-8485-c37e522667bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;ant-layout layout-page&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/main[@class=&quot;ant-layout-content layout-page-content&quot;]/div[@class=&quot;css-1i39gqa&quot;]/div[@class=&quot;tabs-main&quot;]/div[@class=&quot;aside-main&quot;]/div[@class=&quot;table&quot;]/div[@class=&quot;ant-card ant-card-bordered ant-card-small&quot;]/div[@class=&quot;ant-card-body&quot;]/div[1]/div[@class=&quot;css-rgdpp&quot;]/div[@class=&quot;ant-table-wrapper allotment-list&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-small ant-table-ping-right ant-table-fixed-header ant-table-fixed-column ant-table-scroll-horizontal ant-table-has-fix-right&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-body&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0 ant-table-row-selected&quot;]/td[@class=&quot;ant-table-cell ant-table-selection-column ant-table-cell-row-hover&quot;]</value>
+      <webElementGuid>edf47852-c24e-4c9e-919d-9ac06e9ebda0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/main/div[2]/div/div/div[2]/div/div[2]/div/div/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[2]</value>
+      <webElementGuid>93269942-473e-4d2d-921f-f71c6ee0c9de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::td[16]</value>
+      <webElementGuid>590d1c99-283f-45fd-a99d-3e87eb56a2f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment status'])[1]/following::td[16]</value>
+      <webElementGuid>afbf3e8c-d181-434b-b7c9-2a7ced5fb688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A03042024.003'])[1]/preceding::td[2]</value>
+      <webElementGuid>5d960172-cd44-4537-bd27-67bf6d61a293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travel Agent'])[1]/preceding::td[3]</value>
+      <webElementGuid>08623453-1c2c-4b18-b335-a313379a5690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]</value>
+      <webElementGuid>a36f6007-37e3-44ec-b87d-63c79cc56101</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
